@@ -1,4 +1,4 @@
-- 👋 Hi
+- 👋 Salut , 
 Je suis Développeuse Web 🚀.
 
 Mon rôle : transformer des idées 💡 en applications web performantes, avec une expérience utilisateur qui crée de la valeur. J’aime exploiter les données 📊 pour aider les entreprises à prendre des décisions éclairées et optimiser leurs performances ⚡.
